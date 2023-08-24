@@ -1,0 +1,7 @@
+export * from './QuienesSomos'
+export * from './Adopcion'
+export * from './Home'
+export * from './AdopcionAleatoria'
+export * from './Ayudar'
+export * from './Login'
+export * from './Perfil'
